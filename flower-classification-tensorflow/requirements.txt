@@ -1,0 +1,4 @@
+tensorflow==2.4.0
+matplotlib==3.4.2
+keras==2.4.3
+# Keras-Preprocessing
